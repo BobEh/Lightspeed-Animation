@@ -1,0 +1,22 @@
+ply
+format ascii 1.0
+comment VCGLIB generated
+comment TextureFile ../textures/SpaceInteriors_Texture.png
+element vertex 4
+property float x
+property float y
+property float z
+property float nx
+property float ny
+property float nz
+property float texture_u
+property float texture_v
+element face 2
+property list uchar int vertex_indices
+end_header
+-150 0 0 0 1 0 0.275592 0.060173
+-9e-05 0 0 0 1 0 0.275592 0.060173
+-150 0 150 0 1 0 0.275592 0.060173
+-9e-05 0 150 0 1 0 0.275592 0.060173
+3 3 1 0 
+3 3 0 2 

@@ -1,0 +1,13 @@
+﻿  cBallComponent.cpp
+  cCollisionListener.cpp
+  cPhysicsComponent.cpp
+  cPhysicsFactory.cpp
+  cPhysicsWorld.cpp
+  cPlaneComponent.cpp
+  CreateFactory.cpp
+     Creating library D:\School - GDP\Semester 2\Graphics 2\Graphics Project\x64\Release\MyPhysicsWrapper.lib and object D:\School - GDP\Semester 2\Graphics 2\Graphics Project\x64\Release\MyPhysicsWrapper.exp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 109 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  MyPhysicsWrapper.vcxproj -> D:\School - GDP\Semester 2\Graphics 2\Graphics Project\x64\Release\MyPhysicsWrapper.dll

@@ -1,0 +1,12 @@
+﻿  cBallComponent.cpp
+  cCollisionListener.cpp
+  cPhysicsComponent.cpp
+  cPhysicsFactory.cpp
+  cPhysicsWorld.cpp
+D:\School - GDP\Semester 2\Physics and Simulation 2\Huzzah\MyPhysicsWrapper\physics\classes\cPhysicsWorld.cpp(19,21): warning C4018: '<': signed/unsigned mismatch
+  cPlaneComponent.cpp
+  CreateFactory.cpp
+  Generating Code...
+D:\School - GDP\Semester 2\Physics and Simulation 2\Huzzah\MyPhysicsWrapper\physics\classes\cPhysicsWorld.cpp(33,21): warning C4018: '<': signed/unsigned mismatch
+     Creating library D:\School - GDP\Semester 2\Physics and Simulation 2\Huzzah\Debug\MyPhysicsWrapper.lib and object D:\School - GDP\Semester 2\Physics and Simulation 2\Huzzah\Debug\MyPhysicsWrapper.exp
+  MyPhysicsWrapper.vcxproj -> D:\School - GDP\Semester 2\Physics and Simulation 2\Huzzah\Debug\MyPhysicsWrapper.dll

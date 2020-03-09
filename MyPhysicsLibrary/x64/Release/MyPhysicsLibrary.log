@@ -1,0 +1,9 @@
+﻿  cIntegrator.cpp
+  cRigidBody.cpp
+  cWorld.cpp
+  nCollide.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 13 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  MyPhysicsLibrary.vcxproj -> D:\School - GDP\Semester 2\Graphics 2\Graphics Project\x64\Release\MyPhysicsLibrary.dll
